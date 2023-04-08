@@ -1,15 +1,15 @@
 const justFood = (pocetOsob1) =>{
    return `Catering od justFood pro ${pocetOsob1} osob za ${pocetOsob1 * 125} Kč.`
 }
-console.log(justFood(20))
+console.log(justFood(100))
 
 const yourMama = (pocetOsob2) => {
-   return `Catering od yourMama pro ${pocetOsob2} osob za ${pocetOsob2 * 175} Kč.`
+   return `Catering od yourMama pro ${pocetOsob2} osob za ${pocetOsob2 * 125} Kč.`
 }
 console.log(yourMama(300))
 
 const flavourHaven = (pocetOsob3) => {
-return `Catering od flavourHaven pro ${pocetOsob3} osob za ${pocetOsob3 * 500} Kč.`
+return `Catering od flavourHaven pro ${pocetOsob3} osob za ${pocetOsob3 * 125} Kč.`
 }    
 console.log(flavourHaven(500))
 
