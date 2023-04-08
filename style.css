@@ -20,13 +20,3 @@ body {
 	background-color: white;
 	color: #333;
 }
-
-.msg {
-	padding: 10px;
-}
-.msg--valid {
-	background-color: green;
-}
-.msg--invalid {
-	background-color: red;
-}
